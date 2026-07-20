@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.goalbond.app",
+    "sha256_cert_fingerprints": [
+      "53:E9:AC:88:D9:CB:F4:A1:C3:98:5B:70:68:6C:F2:A7:8F:FE:A2:57:5F:CB:87:EB:0A:07:8A:AD:D4:5E:28:D5"
+    ]
+  }
+}]
